@@ -1,0 +1,1 @@
+summon minecraft:villager 6 -60 -38 {Tags:["moreno"],VillagerData:{type:snow,profession:cleric,level:5},CustomName:'[{"text":"Moreno Movimiento Infinito"}]',CustomNameVisible:1b,NoAI:1b}
